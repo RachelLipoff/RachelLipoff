@@ -2,7 +2,7 @@
 - 👀 I’m passionate about accessibility design and research.
 - 🌱 I’m currently learning html, css and javascript. 
 - 💞️ I’m looking to collaborate on UX/UI projects.
-- 📫 You can reach me by emailing me or sending a message on linkedin. My email is Rachelalipoff@gmail.com and my linkedin is https://www.linkedin.com/in/rachelalipoff/.   ...
+- 📫 Feel free to reach me via email or linkedin. My email address is Rachelalipoff@gmail.com and my linkedin is https://www.linkedin.com/in/rachelalipoff/. 
 
 <!---
 RachelLipoff/RachelLipoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
